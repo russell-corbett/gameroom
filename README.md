@@ -30,7 +30,7 @@ use the code or contribute to it.
 
 ## Authors & contributors
 
-The original setup of this repository is by [Russell Corbett][frenck].
+The original setup of this repository is by [Russell Corbett][russell].
 
 For a full list of all authors and contributors,
 check [the contributor's page][contributors].
@@ -63,27 +63,21 @@ SOFTWARE.
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[commits-shield]: https://img.shields.io/github/commit-activity/y/hassio-addons/addon-example.svg
-[commits]: https://github.com/hassio-addons/addon-example/commits/main
-[contributors]: https://github.com/hassio-addons/addon-example/graphs/contributors
+[commits-shield]: https://img.shields.io/github/commit-activity/y/russell-corbett/gameroom.svg
+[commits]: https://github.com/russell-corbett/gameroom/commits/main
+[contributors]: https://github.com/russell-corbett/gameroom/graphs/contributors
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-example/blob/main/example/DOCS.md
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/repository-community-hass-io-add-ons/24705?u=frenck
-[frenck]: https://github.com/frenck
-[github-actions-shield]: https://github.com/hassio-addons/addon-example/workflows/CI/badge.svg
-[github-actions]: https://github.com/hassio-addons/addon-example/actions
-[github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
-[github-sponsors]: https://github.com/sponsors/frenck
+[docs]: https://github.com/russell-corbett/gameroom/blob/main/example/DOCS.md
+[russell]: https://github.com/russell-corbett
+[github-actions-shield]: https://github.com/russell-corbett/gameroom/workflows/CI/badge.svg
+[github-actions]: https://github.com/russell-corbett/gameroom/actions
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/russell-corbett/gameroom/issues
-[license-shield]: https://img.shields.io/github/license/hassio-addons/addon-example.svg
+[license-shield]: https://img.shields.io/github/license/russell-corbett/gameroom.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
-[patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
-[patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[releases-shield]: https://img.shields.io/github/release/hassio-addons/addon-example.svg
+[releases-shield]: https://img.shields.io/github/release/russell-corbett/gameroom.svg
 [releases]: https://github.com/russell-corbett/gameroom/releases
 [repository]: https://github.com/hassio-addons/repository
