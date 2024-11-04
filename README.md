@@ -14,11 +14,6 @@
 ![Project Maintenance][maintenance-shield]
 [![GitHub Activity][commits-shield]][commits]
 
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
-
-[![Support Russell on Patreon][patreon-shield]][patreon]
-
 ## About
 
 Gameroom is a Home Assistant Add-On that lets you add lights, sounds, and other effects to your game room. It is currently being designed to work with Dungeons and Dragons, but eventually work for any game that requires ambiance.
